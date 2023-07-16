@@ -6,7 +6,8 @@
 
 # Máy học - CS114.N21
 # Khoa Khoa học Máy tính
-## Nhóm học tập Nopen - Danh sách thành viên
+## Nhóm học tập Nopen 
+Danh sách thành viên
 | ID | Họ tên | Email |
 |------:|------------|----------|
 |21520229|Tăng Minh Hiển|21520229@gm.uit.edu.vn|
