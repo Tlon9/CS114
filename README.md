@@ -15,7 +15,7 @@ Danh sách thành viên
 |21520334|Nguyễn Thái Thành Long|21520334@gm.uit.edu.vn|
 |19521384|Vũ Anh Đức|19521384@gm.uit.edu.vn|
 
-## GITHUB môn học CS114 - Máy học của nhóm Nopen 
+## Thông tin GITHUB môn học CS114 - Máy học của nhóm Nopen 
 Thông tin các folder, file của nhóm bao gồm: 
 1. Folder "hand_written_digits"
    - Chứa dataset của bài tập quá trình Hand Written Digits
